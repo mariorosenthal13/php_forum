@@ -1,0 +1,8 @@
+#forum
+
+1. thread
+2. reply
+3. user
+
+A. Thread is created by a user
+B A reply belogs to a thread, belongs to a user.
